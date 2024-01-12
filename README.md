@@ -1,6 +1,7 @@
 Bước 1. Download code này về máy tính
 
-Bước 2. Mở phần mềm VS Code để mở thư mục OnTapJS
+Bước 2. Mở phần mềm VS Code để mở thư mục OnTapJS, vào cửa sổ lệnh đứng ở thư mục OnTapJS chạy lệnh: `npm install --save-dev jest`
+
 
 Bước 3. Đổi tên thư mục Array để nối thêm mã SV vào tên thư mục. VD:   Array  --> Array_ph123456 
 
